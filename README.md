@@ -1,1 +1,1 @@
-# -LAB-02-Navegaci-n-entre-Pantallas
+# Laboratorio-2-Navegaci-n-entre-Pantallas
